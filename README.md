@@ -1,4 +1,4 @@
-# GolfCourseManager-VR (In Development
+# GolfCourseManager-VR 
 
 Download Link for Oculus VR APK:
 https://www.dropbox.com/s/922utiyhk9yrp4m/GCM_VR.apk?dl=0
