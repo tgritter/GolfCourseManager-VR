@@ -1,7 +1,7 @@
 # GolfCourseManager-VR 
 
 Download Link for Windows playable file:
-https://www.dropbox.com/s/jt8udeq4gkm9ajh/GCM_VR.zip?dl=0
+https://www.dropbox.com/s/kw3uozs0vml5a3x/GCM_VR.rar?dl=0
 
 Download Link for Oculus VR APK:
 https://www.dropbox.com/s/922utiyhk9yrp4m/GCM_VR.apk?dl=0
